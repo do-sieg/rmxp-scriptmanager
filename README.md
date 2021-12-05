@@ -1,4 +1,4 @@
-(French version [here](https://github.com/do-sieg/RPGMaker/blob/master/ScriptManager/README_FR.md))
+(French version [here](README_FR.md))
 
 
 # ScriptManager 1.0a
